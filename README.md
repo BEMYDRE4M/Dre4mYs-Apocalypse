@@ -1,2 +1,18 @@
-# Dre4mYs-Apocalypse
-Multi Theft Auto - Deathmatch Gamemode - v.1.10 - 2018/2019
+# Dre4mYs Apocalypse
+
+A simple zombie apocalypse gamemode developed in 2018/2019.   
+Development has been discontinued; this upload serves mainly for archiving.
+
+Features
+
+- 🔑 MySQL Register/Login System  
+- 🧟 Zombies  
+- 📈 Level System  
+- 🔫 Weapon Shops & Weapon Skills  
+- 🚗 Vehicles  
+- 👥 Create & Manage Teams  
+- 🏠 Buy & Expand Shelters  
+- 🔒 Unlock & Loot Safes  
+- 🏆 Achievements  
+
+The gamemode is in English.
