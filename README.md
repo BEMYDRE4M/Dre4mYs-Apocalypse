@@ -1,4 +1,4 @@
-# Dre4mYs Apocalypse
+# Dre4mY's Apocalypse
 
 A simple zombie apocalypse gamemode developed in 2018/2019.   
 Development has been discontinued; this upload serves mainly for archiving.
